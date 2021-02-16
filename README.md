@@ -1,2 +1,2 @@
-# CustomRPC
-Create your own Discord RPC
+
+still working on it
